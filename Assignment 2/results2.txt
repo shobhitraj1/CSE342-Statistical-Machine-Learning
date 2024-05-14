@@ -1,0 +1,44 @@
+
+MSE between X and X_recon is = 8.076723385001319e-22
+
+For p = 5 :-
+Class 0 accuracy = 87.85714285714286 %
+Class 1 accuracy = 88.72246696035242 %
+Class 2 accuracy = 8.333333333333334 %
+Class 3 accuracy = 45.84158415841584 %
+Class 4 accuracy = 37.372708757637476 %
+Class 5 accuracy = 33.29596412556054 %
+Class 6 accuracy = 67.74530271398747 %
+Class 7 accuracy = 57.19844357976654 %
+Class 8 accuracy = 53.38809034907597 %
+Class 9 accuracy = 26.66005946481665 %
+
+Accuracy for p = 5 = 51.07000000000001 %
+
+For p = 10 :-
+Class 0 accuracy = 91.83673469387755 %
+Class 1 accuracy = 91.27753303964758 %
+Class 2 accuracy = 60.56201550387597 %
+Class 3 accuracy = 55.34653465346535 %
+Class 4 accuracy = 52.54582484725051 %
+Class 5 accuracy = 42.488789237668165 %
+Class 6 accuracy = 73.79958246346555 %
+Class 7 accuracy = 69.3579766536965 %
+Class 8 accuracy = 56.878850102669404 %
+Class 9 accuracy = 51.83349851337958 %
+
+Accuracy for p = 10 = 65.12 %
+
+For p = 20 :-
+Class 0 accuracy = 94.48979591836735 %
+Class 1 accuracy = 94.00881057268722 %
+Class 2 accuracy = 76.35658914728683 %
+Class 3 accuracy = 70.6930693069307 %
+Class 4 accuracy = 66.90427698574338 %
+Class 5 accuracy = 69.95515695067265 %
+Class 6 accuracy = 86.53444676409185 %
+Class 7 accuracy = 79.96108949416342 %
+Class 8 accuracy = 69.30184804928132 %
+Class 9 accuracy = 75.61942517343905 %
+
+Accuracy for p = 20 = 78.64999999999999 %
