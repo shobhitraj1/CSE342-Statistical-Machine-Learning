@@ -12,6 +12,9 @@ The course covers key topics in machine learning and pattern classification. Fun
 - `/Project`: will add soon.
 - `/Exams`: will add soon.
 
+📌 **Note:** 
+All algorithms & techniques are hard-code implemented from scratch without using any inbuilt python libraries.
+
 📅 **Semester:**
 4th Semester (2nd Year)
 
