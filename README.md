@@ -9,8 +9,11 @@ The course covers key topics in machine learning and pattern classification. Fun
 - `/Assignment 2`: This folder includes assignment 2 codes, it was about applying QDA & PCA on the MNIST dataset & making handwritten digit recognition classifier model.
 - `/Assignment 3`: This folder includes assignment 3 codes, it was about learning a decision tree from the MNIST dataset and then use ensemble learning using bagging with decision trees to make a classifier model.
 - `/Assignment 4`: This folder includes assignment 4 codes, it was about implementing Boosting techniques. The first task was to apply AdaBoost.M1 algorithm on the MNIST dataset for binary classification of digits 0 and 1. The second task was to apply gradient boosting with absolute loss to a regression problem.
+- `/Problem Sets`: This folder includes all the problem sets given throughout the semester.
+- `/Quizzes`: Contains materials related to the quizzes.
+- `/Midsem`: Contains materials related to the midterm examination.
+- `/Endsem`: Contains materials related to the endterm examination.
 - `/Project`: will add soon.
-- `/Exams`: will add soon.
 
 📌 **Note:** 
 All algorithms & techniques are hard-code implemented from scratch without using any inbuilt python libraries.
