@@ -13,7 +13,7 @@ The course covers key topics in machine learning and pattern classification. Fun
 - `/Quizzes`: Contains materials related to the quizzes.
 - `/Midsem`: Contains materials related to the midterm examination.
 - `/Endsem`: Contains materials related to the endterm examination.
-- `/Project`: will add soon.
+- `/Project`: [Fraud Detection System for Fintech Banking Transactions](https://github.com/shobhitraj1/Fintech-Fraud-Detection.git)
 
 📌 **Note:** 
 All algorithms & techniques are hard-code implemented from scratch without using any inbuilt python libraries.
